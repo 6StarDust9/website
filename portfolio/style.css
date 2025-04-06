@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: center;
+    height: 100vh; /* Full viewport height */
+    margin: 0; /* Remove default margin */
+    text-align: center; /* Center text horizontally */
+}
